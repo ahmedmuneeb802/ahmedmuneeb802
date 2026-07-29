@@ -50,4 +50,4 @@ www.linkedin.com/in/muneeb-ahmed-b5398024a
 
 
 Email:
-(Your Email)
+ahmedmuneeb802@gmail.com
