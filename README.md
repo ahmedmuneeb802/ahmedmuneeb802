@@ -4,8 +4,6 @@
 
 🎓 Software Engineering Student
 
-🐍 Currently learning Python
-
 🤖 Future AI & Machine Learning Engineer
 
 🌱 Building projects every week
